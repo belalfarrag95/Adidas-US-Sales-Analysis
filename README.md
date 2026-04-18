@@ -1,6 +1,6 @@
 # 👟 Adidas US Sales Analysis — Excel Dashboard
 
-![Dashboard Overview](screenshots/1.png)
+![Dashboard Overview](1.png)
 
 > An interactive Excel dashboard analyzing Adidas sales performance across the United States for 2020 and 2021 — covering products, retailers, states, and sales channels.
 
@@ -21,31 +21,31 @@ This project analyzes **Adidas US sales data** for the years **2020–2021** usi
 ## 📊 Dashboard Screenshots
 
 ### Overview — All Data
-![Overview](screenshots/1.png)
+![Overview](1.png)
 All KPIs at a glance: **Total Sales $89.99M** and **Total Profit $33.21M** across all products, retailers, and states.
 
 ---
 
 ### Filtered by Product — Men's Apparel
-![Men's Apparel](screenshots/2.png)
+![Men's Apparel](2.png)
 Drill-down into **Men's Apparel**: **$12.3M in sales** and **$4.46M profit**. West Gear leads retailer performance at $3.33M.
 
 ---
 
 ### Filtered by Retailer — West Gear
-![West Gear](screenshots/3.png)
+![West Gear](3.png)
 **West Gear** is the top-performing retailer with **$24.3M in total sales** and **$8.57M profit**. In-store channel dominates at 64%.
 
 ---
 
 ### Filtered by State — New York
-![New York](screenshots/4.png)
+![New York](4.png)
 **New York** generated **$6.42M in sales** with Outlet as the dominant channel at 55%. Foot Locker leads at $2.5M.
 
 ---
 
 ### Filtered by Sales Method — Online
-![Online Channel](screenshots/5.png)
+![Online Channel](5.png)
 The **Online channel** contributed **$24.77M in sales** and **$9.66M profit**. Foot Locker leads online at $7.29M.
 
 ---
@@ -75,7 +75,7 @@ The **Online channel** contributed **$24.77M in sales** and **$9.66M profit**. F
 | File | Description |
 |---|---|
 | `Adidas_US_Sales_Datasets.xlsx` | Raw dataset + interactive dashboard |
-| `screenshots/` | Dashboard screenshots for all filter views |
+| `1.png` → `5.png` | Dashboard screenshots for all filter views |
 
 ---
 
